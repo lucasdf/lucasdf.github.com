@@ -1,7 +1,0 @@
----
-layout: post
-title:  "This is a post from category guide"
-date:   2017-03-27 18:43:38 -0300
-categories: guide
----
-Yeeey!
