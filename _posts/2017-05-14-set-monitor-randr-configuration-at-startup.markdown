@@ -2,7 +2,8 @@
 layout: post
 title:  "How To Set Monitor Configuration at Startup Time"
 date:   2017-05-13 23:59:59 -0300
-categories: howto i3
+categories: howto
+tags: [i3, linux]
 ---
 While playing with the [i3 tiling manager](http://i3wm.org) tool I had this issue where the workspace number two would appear on my primary screen and the workspace number one would appear on my second monitor.
 
