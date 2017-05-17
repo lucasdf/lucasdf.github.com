@@ -5,6 +5,7 @@
 - [Applications built using Jekyll](https://github.com/jekyll/jekyll/wiki/sites)
 - [Jekyll Compose](https://github.com/jekyll/jekyll-compose)
 - [Liquid Template](https://shopify.github.io/liquid/)
+- [Supported Highlight](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers)
 
 ## Commands
 - **List commands**: ```bundle exec jekyll help```
