@@ -160,7 +160,7 @@ files:
     owner: root
     group: root
     content: |
-      0 0 * * 0 root /opt/certbot/certbot-auto renew --standalone --pre-hook "killall httpd" --post-hook "/etc/init.d/httpd restart" --force-renew >> /var/log/certificate_renew.log 2>&1
+      0 0 * * 0 root /opt/certbot/certbot-auto renew --standalone --pre-hook "killall httpd" --post-hook "sudo restart supervisord || sudo start supervisord" --force-renew >> /var/log/certificate_renew.log 2>&1
 {% endhighlight %}
 
 Now you should append a new instruction to *container_commands*:
