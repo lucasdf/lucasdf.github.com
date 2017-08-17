@@ -8,7 +8,11 @@
     {% if sliced == 'til-' %}
       <li>
       <a href="{{ real_tag | prepend: '/tags/' | relative_url }}">
-      {{ site.data.tags[real_tag].name | default: real_tag }}
+        {% if site.data.tags[real_tag].clear_name %}
+          {{ site.data.tags[real_tag].clear_name }}
+        {% else %}
+          {{ site.data.tags[real_tag].name | default: real_tag }}
+        {% endif %}
       </a>
       </li>
     {% endif %}
