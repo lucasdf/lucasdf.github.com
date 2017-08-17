@@ -1,0 +1,22 @@
+til-linux:
+  name: Linux
+jekyll:
+  name: Jekyll
+i3:
+  name: i3
+linux:
+  name: Linux
+structured-data:
+  name: Structured Data
+docker:
+  name: Docker
+python:
+  name: Python
+aws:
+  name:
+aws-elastic-beanstalk:
+  name: AWS Elastic Beanstalk
+ssl:
+  name: SSL
+https:
+  name: HTTPS
