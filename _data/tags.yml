@@ -20,3 +20,6 @@ ssl:
   name: SSL
 https:
   name: HTTPS
+til-python:
+  name: Python (TIL)
+  clear_name: Python
