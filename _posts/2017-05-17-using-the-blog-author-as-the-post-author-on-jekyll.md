@@ -3,7 +3,7 @@ layout: post
 title: Using Blog Author as the Post Author on Jekyll
 date: '2017-05-17 11:20:59 -0300'
 categories: howto
-tags: [jekyll, structured data]
+tags: [jekyll, structured-data]
 ---
 
 Google has a tool called [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/?authuser=0) that can be used to analyze the structured data contained in a page. Structured data is a way to explain the pieces of content from a page in a way that other programs can understand. For instance, this blog post has some tags used by Google and other software to understand that this is a blog post. The specification about how this "explanation" should be done is defined [here](http://schema.org/BlogPosting). Google uses this information for its search algorithms so it is a good idea to make sure that Google has access to all information it needs to better understand your page.

@@ -3,7 +3,7 @@ layout: post
 title: Set up Let's Encrypt SSL certificate with AWS Elastic Beanstalk single-instance
 date: '2017-07-21 20:50:00 -0300'
 categories: howto
-tags: [aws, elastic beanstalk, SSL, https]
+tags: [aws, aws-elastic-beanstalk, ssl, https]
 ---
 
 Add a free SSL certificate from Let's Encrypt and configure an Elastic Beanstalk application to use it. These instructions work for environments running behind Apache, such as the Python and the PHP environments. If you are running an environment behind Nginx you can adapt the Apache's .conf file showed here to the Nginx equivalent.
