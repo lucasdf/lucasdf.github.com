@@ -26,6 +26,15 @@ layout: default
     {{ content }}
   </div>
 
+  <span style="font-weight: 700">Tags: </span>
+  <ul style="display: inline; list-style-type: none; margin: 0; padding: 0;" itemprop="keywords">
+      {% for tag in page.tags %}
+      <li style="display: inline;">
+        <a class="" href="{{ tag | prepend: '/tags/' | relative_url }}" rel="tag">• {{ site.data.tags[tag].name | default: tag }}</a>
+      </li>
+      {% endfor %}
+  </ul>
+
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
   {% endif %}
