@@ -2,7 +2,8 @@
 {% when 'til' %}
 <h2>Categories</h2>
 <ul>
-  {% for tag in site.tags %}
+  {% assign sortedtags = site.tags | sort %}
+  {% for tag in sortedtags | sort %}
     {% assign real_tag = tag | first %}
     {% assign sliced = real_tag | slice: 0,4 %}
     {% if sliced == 'til-' %}
