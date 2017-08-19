@@ -2,14 +2,22 @@ jekyll:
   name: Jekyll
 i3:
   name: i3
+
 linux:
   name: Linux
+til-linux:
+  name: Linux (TIL)
+  clear_name: Linux
+
 structured-data:
   name: Structured Data
+
 docker:
   name: Docker
-python:
-  name: Python
+til-docker:
+  name: Docker (TIL)
+  clear_name: Docker
+
 aws:
   name:
 aws-elastic-beanstalk:
@@ -18,28 +26,33 @@ ssl:
   name: SSL
 https:
   name: HTTPS
+
+python:
+  name: Python
 til-python:
   name: Python (TIL)
   clear_name: Python
+
+node:
+  name: Node
 til-node:
   name: Node (TIL)
   clear_name: Node
-node:
-  name: Node
-til-linux:
-  name: Linux (TIL)
-  clear_name: Linux
+
+jasmine:
+  name: Jasmine
 til-jasmine:
   name: Jasmine (TIL)
   clear_name: Jasmine
-jasmine:
-  name: Jasmine
+
 javascript:
   name: Javascript
+
+git:
+  name: Git
 til-git:
   name: Git (TIL)
   clear_name: Git
-git:
-  name: Git
+
 vil:
   name: Vim
