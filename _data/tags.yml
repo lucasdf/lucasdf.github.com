@@ -1,3 +1,9 @@
+bash:
+  name: Bash
+til-bash:
+  name: Bash (TIL)
+  clear_name: Bash
+
 jekyll:
   name: Jekyll
 i3:
