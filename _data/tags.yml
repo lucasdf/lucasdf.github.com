@@ -36,3 +36,10 @@ jasmine:
   name: Jasmine
 javascript:
   name: Javascript
+til-git:
+  name: Git (TIL)
+  clear_name: Git
+git:
+  name: Git
+vil:
+  name: Vim
