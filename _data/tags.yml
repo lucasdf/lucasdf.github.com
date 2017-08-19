@@ -1,3 +1,9 @@
+atom:
+  name: Atom
+atom-til:
+  name: Atom (TIL)
+  clear_name: Atom
+
 bash:
   name: Bash
 til-bash:
