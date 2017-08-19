@@ -23,3 +23,6 @@ https:
 til-python:
   name: Python (TIL)
   clear_name: Python
+til-node:
+  name: Node (TIL)
+  clear_name: Node
