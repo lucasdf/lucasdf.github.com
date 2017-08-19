@@ -26,3 +26,8 @@ til-python:
 til-node:
   name: Node (TIL)
   clear_name: Node
+node:
+  name: Node
+til-linux:
+  name: Linux (TIL)
+  clear_name: Linux
