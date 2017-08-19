@@ -1,5 +1,3 @@
-til-linux:
-  name: Linux
 jekyll:
   name: Jekyll
 i3:
@@ -31,3 +29,10 @@ node:
 til-linux:
   name: Linux (TIL)
   clear_name: Linux
+til-jasmine:
+  name: Jasmine (TIL)
+  clear_name: Jasmine
+jasmine:
+  name: Jasmine
+javascript:
+  name: Javascript
