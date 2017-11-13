@@ -26,6 +26,12 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="feedback">
+    <span class="feedback-heading">Was this useful to you?</span>
+    <i class="fa fa-thumbs-up fa-2x feedback-thumbs-up" aria-hidden="true"></i>
+    <i class="fa fa-thumbs-down fa-2x feedback-thumbs-down" aria-hidden="true"></i>
+  </div>
+
   <span style="font-weight: 700">Tags: </span>
   <ul style="display: inline; list-style-type: none; margin: 0; padding: 0;" itemprop="keywords">
       {% for tag in page.tags %}
@@ -34,6 +40,8 @@ layout: default
       </li>
       {% endfor %}
   </ul>
+
+
 
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}

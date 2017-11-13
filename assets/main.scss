@@ -1,0 +1,37 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.feedback-heading {
+  font-size: 150%
+}
+
+// see http://recodenow.com/smilies-starts-thumbs-up-code-snippets/
+
+.feedback {
+  display: inline-block;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.feedback-thumbs-up,
+.feedback-thumbs-down {
+  display: inline-block;
+  cursor: pointer;
+  margin: 8px;
+}
+
+.feedback-thumbs-up:hover,
+.feedback-thumbs-down:hover {
+  color: #2EBDD1;
+  transition: all .2s ease-in-out;
+  transform: scale(1.1);
+}
+
+.active {
+  color: #2EBDD1;
+}
