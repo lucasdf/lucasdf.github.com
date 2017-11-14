@@ -5,7 +5,7 @@
 @import "minima";
 
 .feedback-heading {
-  font-size: 150%
+  font-size: 175%
 }
 
 // see http://recodenow.com/smilies-starts-thumbs-up-code-snippets/
@@ -25,8 +25,8 @@
   margin: 8px;
 }
 
-.feedback-thumbs-up:hover,
-.feedback-thumbs-down:hover {
+.feedback-thumbs-up.feedback-active:hover,
+.feedback-thumbs-down.feedback-active:hover {
   color: #2EBDD1;
   transition: all .2s ease-in-out;
   transform: scale(1.1);

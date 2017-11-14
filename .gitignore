@@ -3,4 +3,4 @@ _site
 .jekyll-metadata
 
 .idea/
-.ruby_version
+.ruby-version
