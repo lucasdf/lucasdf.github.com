@@ -16,8 +16,10 @@ You may find me on Github at {% include icon-github.html username="lucasdf" %}
 
 ## Books I Have Read
 
-### 2017
+### 2018
+- Peopleware: Productive Projects and Teams, by Tom DeMarco (January)
 
+### 2017
 - Effective Programming: More Than Writing Code by Jeff Atwood (August)
 - Red Mars, by Kim Stanley Robinson (August)
 - How to Win Friends and Influence People, by Dale Carnegie (July)
