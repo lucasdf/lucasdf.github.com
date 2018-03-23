@@ -17,6 +17,7 @@ You may find me on Github at {% include icon-github.html username="lucasdf" %}
 ## Books I Have Read
 
 ### 2018
+- Green Mars, by Kim Stanley Robinson (March)
 - Peopleware: Productive Projects and Teams, by Tom DeMarco (January)
 
 ### 2017
