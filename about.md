@@ -18,6 +18,7 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2018
+- A Game of Thrones, by George R. R. Martin (April)
 - Green Mars, by Kim Stanley Robinson (March)
 - Peopleware: Productive Projects and Teams, by Tom DeMarco (January)
 
