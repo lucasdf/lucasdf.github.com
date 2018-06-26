@@ -18,6 +18,7 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2018
+- Leviathan Wakes by James S. A. Corey (June)
 - The Lonely City: Adventures in the Art of Being Alone by Olivia Laing (May)
 - So Good They Can't Ignore You by Cal Newport (May)
 - A Game of Thrones, by George R. R. Martin (April)
