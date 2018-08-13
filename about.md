@@ -18,6 +18,7 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2018
+- Functional Thinking by Neal Ford (August)
 - Site Reliability Engineering: How Google Runs Production Systems (July)
 - Leviathan Wakes by James S. A. Corey (June)
 - The Lonely City: Adventures in the Art of Being Alone by Olivia Laing (May)
