@@ -18,6 +18,7 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2018
+- The Twelve Caesars by Suetonius (October)
 - Finding Alphas: A Quantitative Approach to Building Trading Strategies (September)
 - The Hacker Playbook: Practical Guide To Penetration Testing Paperback by Peter Kim (August)
 - Functional Thinking by Neal Ford (August)
