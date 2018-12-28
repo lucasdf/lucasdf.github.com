@@ -18,6 +18,7 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2018
+- Designing Distributed Systems by Brendan Burns (December)
 - The Moon Is a Harsh Mistress by Robert A. Heinlein (December)
 - The Twelve Caesars by Suetonius (October)
 - Finding Alphas: A Quantitative Approach to Building Trading Strategies (September)
