@@ -17,6 +17,9 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 
 ## Books I Have Read
 
+### 2019
+- Travesuras de la niña mala by Mario Vargas Llosa (January)
+
 ### 2018
 - Designing Distributed Systems by Brendan Burns (December)
 - The Moon Is a Harsh Mistress by Robert A. Heinlein (December)
