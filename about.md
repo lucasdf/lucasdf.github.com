@@ -18,6 +18,7 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2019
+- MAKE: Bootstrapper's Handbook by Pieter Levels (January)
 - Travesuras de la niña mala by Mario Vargas Llosa (January)
 
 ### 2018
