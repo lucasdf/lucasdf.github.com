@@ -18,6 +18,7 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2019
+- Fraud 101: Techniques and Strategies for Understanding Fraud by Stephen Pedneault (March)
 - Rework by Jason Fried (February)
 - Women by Charles Bukowski (January)
 - Microserfs by Douglas Coupland (January)
