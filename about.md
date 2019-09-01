@@ -18,6 +18,9 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2019
+- Factotum by Charles Bukowski (September)
+- The Subtle Art of Not Giving a F*ck by Mark Manson (July)
+- The Everything Store: Jeff Bezos and the Age of Amazon by Brad Stone (June)
 - Sapiens: A Brief History of Humankind  by Yuval Noah Harari (April)
 - Fraud 101: Techniques and Strategies for Understanding Fraud by Stephen Pedneault (March)
 - Rework by Jason Fried (February)
@@ -48,5 +51,4 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 - Consider Phlebas, by Iain Banks (June)
 - Nine Algorithms That Changed the Future, by John MacCormick (May)
 - NoSQL Distilled, by Pramod J. Sadalage & Martin Fowler (May)
-- Introduction to Statistical Thinking (With R, Without Calculus),
-by Benjamin Yakir (May)
+- Introduction to Statistical Thinking (With R, Without Calculus) by Benjamin Yakir (May)
