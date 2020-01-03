@@ -17,6 +17,9 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 
 ## Books I Have Read
 
+### 2020
+- How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers by Sönke Ahrens (January)
+
 ### 2019
 - Never Split the Difference: Negotiating As If Your Life Depended On It (November)
 - Factotum by Charles Bukowski (September)
