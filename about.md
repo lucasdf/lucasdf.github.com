@@ -18,6 +18,7 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2020
+- The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win (March)
 - Our Man in Damascus: Elie Cohn (March)
 - Marketing for Developers (March)
 - Just Fucking Ship by Amy Hoy (February)
