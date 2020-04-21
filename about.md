@@ -18,7 +18,8 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2020
-- DescriptionGetting Things Done by David Allen (April)
+- UNIX: A History and a Memoir by Brian W. Kernighan (April)
+- Getting Things Done by David Allen (April)
 - Ghost Wars by Steve Coll (March)
 - The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win (March)
 - Our Man in Damascus: Elie Cohn (March)
