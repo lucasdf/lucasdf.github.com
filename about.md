@@ -5,7 +5,6 @@ permalink: /about/
 ---
 
 ## Contact
-
 You may contact me at [secret]@[domain]. Just replace [secret] by "lucas" and [domain] by "lucasferreira.org"
 
 You may find me on Github at <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a>
@@ -18,6 +17,7 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2020
+- Citizen 865: The Hunt for Hitler's Hidden Soldiers in America by Debbie Cenziper (April)
 - UNIX: A History and a Memoir by Brian W. Kernighan (April)
 - Getting Things Done by David Allen (April)
 - Ghost Wars by Steve Coll (March)
