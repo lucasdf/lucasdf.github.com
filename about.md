@@ -17,6 +17,7 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2020
+- Just for Fun: The Story of an Accidental Revolutionary by Linus Torvalds (May)
 - Millions, Billions, Zillions: Defending Yourself in a World of Too Many Numbers by Brian W. Kernighan (April)
 - Citizen 865: The Hunt for Hitler's Hidden Soldiers in America by Debbie Cenziper (April)
 - UNIX: A History and a Memoir by Brian W. Kernighan (April)
