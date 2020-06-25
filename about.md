@@ -17,6 +17,7 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2020
+- Deep Work by Cal Newport (June)
 - Coders at Work: Reflections on the Craft of Programming (June)
 - Understanding Programming Languages by Monti Ben-Ari (May)
 - Just for Fun: The Story of an Accidental Revolutionary by Linus Torvalds (May)
