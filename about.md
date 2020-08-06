@@ -17,6 +17,7 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2020
+- Wait Until Spring, Bandini (August)
 - Deep Work by Cal Newport (June)
 - Coders at Work: Reflections on the Craft of Programming (June)
 - Understanding Programming Languages by Monti Ben-Ari (May)
@@ -36,7 +37,7 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ### 2019
 - Never Split the Difference: Negotiating As If Your Life Depended On It (November)
 - Factotum by Charles Bukowski (September)
-- The Subtle Art of Not Giving a F*ck by Mark Manson (July)
+- The Subtle Art of Not Giving a Fuck by Mark Manson (July)
 - The Everything Store: Jeff Bezos and the Age of Amazon by Brad Stone (June)
 - Sapiens: A Brief History of Humankind  by Yuval Noah Harari (April)
 - Fraud 101: Techniques and Strategies for Understanding Fraud by Stephen Pedneault (March)
