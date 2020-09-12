@@ -17,6 +17,7 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2020
+- Dreams from Bunker Hill by John Fant (September)
 - Ask the Dust by John Fant (September)
 - The Road to Los Angeles by John Fante (August)
 - Wait Until Spring, Bandini by John Fante (August)
