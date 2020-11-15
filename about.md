@@ -17,6 +17,7 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2020
+- Permanent Record by Edward Snowden (November)
 - No Rules Rules: Netflix and the Culture of Reinvention by Erin Meyer and Reed Hastings (October)
 - The Motivation Hacker by Nick Winter (October)
 - A Moeda e a Lei by Gustavo Franco (September)
