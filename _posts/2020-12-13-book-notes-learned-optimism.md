@@ -84,6 +84,7 @@ Explaining bad events using permanent style (pessimist signal)
 - "I never set time to study"
 - "I never do things I plan to do"
 - "You always ignore me"
+
 Explaining bad events using temporary style (optimist signal)
 - "She haven't been talking to me lately"
 - "I haven't set up time to study in the past month"
@@ -94,6 +95,7 @@ Explaining good events using permanent style (optimist signal)
 - "I was luycky that day"
 - "I studied hard"
 - "The other teams played bad"
+
 Explaining good events using temporary style (pessimist signal)
 - "I am lucky"
 - "I am intelligent"
@@ -103,7 +105,7 @@ Explaining good events using temporary style (pessimist signal)
 
 > Permanence is about time. Pervasiveness is about space.
 
-How does one event in your life affect other events? If something good happens in one area of your life, does it permeates to other areas? For instance, if you study hard and do incredibly well in an exam, does this give you confidence and energy to pursue other things, maybe asking someone special out or taking a new hobby? At the same time, how do bad events affect your overall life? If something bad happens in some area of your life, does it affect the others? If you are fired from your job and start feeling accomplished and incompetent, do you also start doubting whether you are a good parent to your child or a good lover to your partner, even though the setback at work did not affect and is not related to those other areas?
+How does one event in your life affect other events? If something good happens in one area of your life, does it permeates to other areas? For instance, if you study hard and do incredibly well in an exam, does this give you confidence and energy to pursue other things, maybe asking someone special out or taking a new hobby? At the same time, how do bad events affect your overall life? If something bad happens in some area of your life, does it affect the others? If you are fired from your job and start feeling unaccomplished and incompetent, do you also start doubting whether you are a good parent to your child or a good lover to your partner, even though the setback at work did not affect and is not related to those other areas?
 
 > People who make universal explanations for their failures give up on everything when a failure strikes in one area. People who make specific explanations may become helpless in that one part of their lives yet march stalwartly on in the others.
 
@@ -111,6 +113,7 @@ Explaining bad events using universal style (pessimist signal):
 - "All bosses are terrible"
 - "I am ugly"
 - "University is useless"
+
 Explaining bad events using specific style (optimist signal):
 - "My current boss is terrible"
 - "This person thinks I am ugly"
@@ -119,6 +122,7 @@ Explaining bad events using specific style (optimist signal):
 Explaining good events using specific style (pessimist signal):
 - "I am good at math"
 - "I did a good work at this project"
+
 Explaining good events using universal style (optimistic signal):
 - "I am good at things I do"
 - "The projects I work succeed"
@@ -132,6 +136,7 @@ Explaining bad events using internal style (low self-steem signal):
 - "I am dumb"
 - "I haven't study hard"
 - "I am not talented at X"
+
 Explaining bad events using external style (high self-steem signal):
 - "You are dumb"
 - "I did not receive educational opportunities"
@@ -140,6 +145,7 @@ Explaining bad events using external style (high self-steem signal):
 Explaining good events using internal style (high self-steem signal):
 - "I played well or I worked well"
 - "I studied and worked hard to achieve things"
+
 Explaining good events using external style (low self-steem signal):
 - "The team played well or The team worked well"
 - "My parents provided me with good opportunities"
