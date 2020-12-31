@@ -20,6 +20,7 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2020
+- The Truce by Primo Levi (December)
 - If This Is a Man by Primo Levi (December)
 - Permanent Record by Edward Snowden (November)
 - No Rules Rules: Netflix and the Culture of Reinvention by Erin Meyer and Reed Hastings (October)
