@@ -180,6 +180,43 @@ These scores can be used to calculate aggregate scores:
 ### Some notes about explanatory styles
 {This test indicates that certain behaviors are good in some situations and allegedly bad in other situations. According to the test, it is good to take responsibility for your own actions when good events happen, but the best thing to do when bad events happen would be to blame them on someone else. This is an interesting insight because it is not about what is moral or the correct thing to do, just what kind of explanatory style brings positive or negative individual psychological outcomes. The author touches on this point. For instance, he advocates for people to have an internal style for bad events because that's the right thing to do and that's more valuable in the long run, even at the potential cost of some higher psychological suffering or the need to compensate for it in other dimensions to not let this affect their whole lives.}
 
+## Chapter 4
+
+There are three types of depression:
+- normal depression: mild depression, which is common in everyone's lives.
+- unipolar depression: depression without manic episodes.
+- bipolar depression: clinical depression with mania.
+
+Depression causes four types of negative changes:
+- thought: pessimism regarding the future, low self-esteem, hopelessness
+- mood: sadness, discouragement, despair, crying episodes, anxiety, irritability, numbness
+- behavior: passivity, indecisiveness, suicidal thoughts and actions. hard to start activities, and gives up on them easily
+  - suicide behavior can be separated into two main motives: 1) stop the main 2) manipulate others (eg. seek revenge and inflict pain in others or seek to be loved/get attention)
+- physical responses: decreased appetite and libido; insomnia. morning insomnia is common, when the person wakes up way too early and can't get back to sleep, making them start the day exhausted.
+
+There has been research about the prevalence of depression in US population:
+- ECA (epidemiological catchment area) showed a large difference in the lifetime prevalence of depression (ie. percentage of people who have suffered from depression at least one in their life) among generations. It is expected that older people might display a higher prevalence, they just have more years in their life. However, newer generations present a much higher prevalence of depression
+- A followup study confirmed these findings. It also showed that women suffer from depression twice as much as man; and that the average age for the first episode of depression is much lower for younger generations.
+
+{Not only older people should have a higher depression prevalence because they have more time to have suffered in life, but today's living standards are much higher than the previous generations. TODO find newer statistics, maybe try to find or combine some data showing depression prevalence by generation up to the current year. What are some interesting trends on this? (eg. has gender difference changed over time? do people who migrate suffer more or less from depression? what about economical conditions? what about childhood predictability? are there differences between people with larger or smaller families? what about heavy users of social media? what countries suffer more or less from depression? are there professions with higher/lower depression prevalence?)}
+
+The prevailing medical opinion is that both unipolar and bipolar depression are illness, while normal depression is just a case of bad mood. The author argues that bipolar depression is a illness and caused mainly by chemichal imbalances treated with lithium, but that there are not much difference between normal depression and unipolar depression, except for major cases of unipolar depression. Bipolar depression is inherited, but unipolar is hardly so. 
+
+There are no major biological changes that can explain the dramatic increase in depression occurrence for just single generations. The author experiments with rats, dogs, and people, has modeled depression using the helpless model. After demonstrating the effects of helplessness, he has proceeded to demonstrate that the subjects suffering from helplessness suffered from depression by checking their depression symptoms.
+
+The nine symptoms of depression according to DSM-III-R:
+1. Depressed mood
+2. Loss of interest in usual activities
+3. Loss of appetite
+4. Insomnia
+5. Psychomotor retardation (slow thought or movement)
+6. Loss of energy
+7. Feelings of worthlessness and guilt
+8. Diminished ability to think and poor concentration
+9. Suicidal thought or action
+
+{The author has demonstrated that his helplessness experiments indeed serve as a good model for depression, but haven't yet explained whether and why people would feel more helpless today when compared to 100 years ago. He is arguing that helplessness is a cause for depression and that helplessness has become more common recently, causing a surge in depression. Much like a new virus or a mass poisoning could cause a surge in a specific disease. If that's the case, what is causing an increase in helplessness? Which specific cultural or economical changes might have been causing that? How does that compare across cultures and countries?}
+
 ## Related Wikipedia Links
 - <https://en.wikipedia.org/wiki/Martin_Seligman>
 - <https://en.wikipedia.org/wiki/Lyn_Yvonne_Abramson>
