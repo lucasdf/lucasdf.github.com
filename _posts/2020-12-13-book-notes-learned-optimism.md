@@ -191,7 +191,7 @@ Depression causes four types of negative changes:
 - thought: pessimism regarding the future, low self-esteem, hopelessness
 - mood: sadness, discouragement, despair, crying episodes, anxiety, irritability, numbness
 - behavior: passivity, indecisiveness, suicidal thoughts and actions. hard to start activities, and gives up on them easily
-  - suicide behavior can be separated into two main motives: 1) stop the main 2) manipulate others (eg. seek revenge and inflict pain in others or seek to be loved/get attention)
+  - suicide behavior can be separated into two main motives: 1) stop the pain 2) manipulate others (eg. seek revenge and inflict pain in others or seek to be loved/get attention)
 - physical responses: decreased appetite and libido; insomnia. morning insomnia is common, when the person wakes up way too early and can't get back to sleep, making them start the day exhausted.
 
 There has been research about the prevalence of depression in US population:
