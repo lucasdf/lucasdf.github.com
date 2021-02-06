@@ -20,7 +20,7 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 ## Books I Have Read
 
 ### 2021
-- A Promised Land by Barack Obama (February)
+[A Promised Land by Barack Obama (February)]({% post_url 2021-02-02-book-notes-promised-land %})
 
 ### 2020
 - The Truce by Primo Levi (December)
