@@ -1,6 +1,5 @@
 ## Contents
 
-  - [](#)
   - [tags: [books, psychology]](#tags-books-psychology)
 - [Learned Optimism](#learned-optimism)
 - [Book notes](#book-notes)
@@ -303,7 +302,7 @@ Cognitive therapy uses five tactics to treat depression:
 - <https://en.wikipedia.org/wiki/Sexual_revolution>
 - <https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy>
 - <https://en.wikipedia.org/wiki/Aaron_T._Beck>
-- https://en.wikipedia.org/wiki/Albert_Ellis>
+- <https://en.wikipedia.org/wiki/Albert_Ellis>
 
 [1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3330161/
 [2]: https://www.nytimes.com/2016/10/09/world/cia-torture-guantanamo-bay.html
