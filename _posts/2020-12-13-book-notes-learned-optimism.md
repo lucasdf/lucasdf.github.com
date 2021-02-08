@@ -167,7 +167,7 @@ My results for this test are:
 - 4/8 in "Permanent good" score, indicating that I am "average" in the optimistic permanence dimension
 - 4/8 in "Pervasiveness bad" score, indicating that I am "average" in the pessimistic pervasiveness dimension
 - 2/8 in "Pervasiveness good" score, indicating that I am "very pessimistic" in the optimistic pervasiveness dimension
-- 7/8 in "Personalization bad" score, indicating that I have "very low self-steam"
+- 7/8 in "Personalization bad" score, indicating that I have "very low self-esteem"
 - 4/8 in "Personalization good" score, indicating that I am "average" in terms of optimistic personalization
 
 These scores can be used to calculate aggregate scores:
@@ -217,6 +217,50 @@ The nine symptoms of depression according to DSM-III-R:
 
 {The author has demonstrated that his helplessness experiments indeed serve as a good model for depression, but haven't yet explained whether and why people would feel more helpless today when compared to 100 years ago. He is arguing that helplessness is a cause for depression and that helplessness has become more common recently, causing a surge in depression. Much like a new virus or a mass poisoning could cause a surge in a specific disease. If that's the case, what is causing an increase in helplessness? Which specific cultural or economical changes might have been causing that? How does that compare across cultures and countries?}
 
+## Chapter 5
+Albert Ellis and Aaron Beck developed the first forms of Cognitive behavioral therapy. Before their work, the accepted idea in the field was that depression was a very complex disease, either caused by chemical imbalances (Biomedical school) or by deep unresolved psychological problems associated with guilt and shame (Freud school).
+
+Ellis's first works were in the field of sexuality, where he promoted sexual liberation in the context of psychology. Later he started studying depression. Based on his clinical practice, he identified that a depressed person has a pattern of pessimism and low self-esteem. He questioned whether that negative thinking pattern was not a symptom of depression, but the disease itself. He even questioned whether the then accepted-wisdom of depression as a complex disease that can only be treated through complicated and extensive medical interventions and medical monitoring was causing people to essentially feel helpless regarding their own ability to deal with their problems and worsening their depression.
+
+Another psychologist at the time, Joseph Wolpe, started challenging the accepted notions regarding phobias. The accepted theories regarding phobia were pretty much the same as the ones for depression, Wolpe challenged that notion and developed what eventually became the "graduated exposure therapy" treatment, or desensitization. Essentially, Wolpe argued that the irrational fear was the disease itself, and not a symptom of a larger and obscure disease called phobia. By using techniques learned from Ivan Pavlov's work, Wolpe developed treatments first with animals and then with humans that cured phobias in a couple of months. Contrary to the then accepted beliefs, once the specific fear was cured, people hardly relapsed and did not develop another similar irrational fear due to untreated psychological or biological causes; indicating that the fear itself was the disease.
+
+The book author, Martin Seligman, partnered with Beck at the end of the 60s to study depression together. Their work gave a start to the first techniques associated with cognitive therapy. The goal of cognitive therapy is to identify bad thinking patterns and convert them into good patterns, such as converting a pessimist explanatory style into an optimistic one.
+
+We all experiment failures in life. Failure produces helplessness. After facing a similar failure, some people go through a brief period of feeling helpless, and others go through weeks or months feeling helpless. As demonstrated by studies, helplessness causes eight of the nine symptoms of depression. How long you feel helpless affects how long you feel depressed. Clinical depression requires five of those nine symptoms, and that they occur through at least two weeks. If you feel helpless for more than two weeks, you have clinical depression.
+
+People who have a pessimistic explanatory style (personal, permanent, and pervasive explanations for bad events) feel helpless longer, causing depression.
+
+> This is the central prediction from my theory: People who have a pessimistic explanatory style and suffer bad events will probably become depressed, whereas people who have an optimistic explanatory style and suffer bad events will tend to resist depression.
+> If this is so, then pessimism is a risk factor for depression in just the same sense as smoking is a risk factor for lung cancer or being a hostile, hard-driving man is a risk factor for heart attack.
+
+That idea has been tested for many years, to test against reversed causality (depression causing pessimism) or correlation (since there is an intersection between pessimism ideas and the depression symptoms used for diagnosis, there could be just a correlation between pessimist people and depressed people). One study followed students from the start of classes until the end. After being asked what failure in class would look like to them and assessing their explanatory style. People who failed according to their own definition and had a pessimist explanatory style got depressed at a rate of 70%, as compared to around 30% of people who failed but did not have a pessimist explanatory style, and 30% of all pessimists no matter if they failed or not. The combination of failure (helpless) and pessimism produce much higher rates of depression. Another experiment was conducted in prison, demonstrating that the pessimist detainees suffered more from depression on leaving prison than those who were not pessimists. Another one followed 400 third-grader students through years that demonstrated the same pattern: the pessimist students were much likely to develop depression or to suffer from it for an extensive period of time than the non-pessimist students.
+
+These and other experiments demonstrated that by assessing the explanatory style of a group of people, it was possible to predict those who would suffer from depression based on that. Still, they did not prove that pessimism caused depression. They indicated that the reversal causality didn't hold, since these studies identified pessimist people before they suffered from depression. But pessimism could be just a signal: those people could have another characteristic (either psychological or biological) that caused them to react badly and become depressive upon failure, and after realizing that they became pessimists. In other words, there could be a correlation between the two, but not a causal relationship. This has been researched by experimenting with cognitive therapy to change depressed pessimists' explanatory style. People who changed their explanatory style did not stay depressed and had few relapses. Meanwhile, people who received only medical treatment did not stay depressed as well, but they relapsed frequently once medication stopped. Those who did not receive medical treatment and did not undergo therapy to change their explanatory style stayed depressed. If there was no causal relationship between the explanatory style and depression, changing the explanatory style wouldn't cause people to stop being depressed. There are other causes for depression as well, such as genetic influences, failures and bad events occurrence, hormones and other biological influences; but pessimism has been demonstrated to be one of the major causes.
+
+> If you walk around disposed to believe of any problem that “it’s me, it’s going to last forever, it’s going to undermine everything I try,” you are set up for depression. But just because you may be disposed to think this way doesn’t necessarily mean you frequently utter such thoughts to yourself. Some people do, some don’t. People who mull over bad events are called ruminators.
+
+There are optimist and pessimist ruminators, and there are optimist and pessimist people who do not ruminate. Non-ruminators are usually action-oriented: instead of think about how bad things are, they think about what they are going to do. Rumination creates a feedback-loop: once the person feels helpless upon facing some bad event, they explain the event in a pessimistic way (the explanation arrives at the conclusion that the cause is permanent, pervasive, and personal), and that makes the person consciously expect to stay helpless. Rumination reinforces this cycle.
+
+Research showed that women have a depression rate twice as high as men. The author argues that rumination is the root of that situation. The three main theories explaining men vs women depression occurrence are:
+- sex and gender roles and expectations cause women to be more depressed since they are taught to value social relationships as opposed to achievements, causing them to have lower self-esteem. Also, women have to assume more roles (eg. be the main caretaker, organize the household, and also work), which makes them more susceptible to experience failures.
+- women experience more helplessness due to cultural differences in appreciation and recognition. boys receive more attention from parents on childhood, and as adults men are more valued and their contributions are more recognized than women.
+
+These two theories are more or less debunked or have demonstrated to not impact enough to properly explain the 2-1 rate difference. The third theory is that rumination is the cause of the difference. The concept of rumination and its role in this gender difference was developed by psychologist Susan Nolen-Hoeksema.
+- women ruminate more than men, especially in face of failures. the author says that in face of failure, men tend to act (eg. if fired they either go get drunk to forget about it or they instantly start looking for a new job) while women tend to think (eg. if fired, they tend to take time to analyze and understand what happened before making decisions and acting). this behavior difference has been demonstrated by research. although men and women experiment the same rate of mild depression, those who ruminate tend to have their mil depression escalate into something bigger.
+{the author doesn't argue that women think and act differently due to any natural biological differences, he only states that they act that way, without speculating about the causes. it is possible that on average women do act differently than men in terms of rumination, and that difference might be explained by sexism in education and culture. if that's the case, should we expect this 2-1 rate to become closer as societies progress in terms of gender equality?}
+{this whole concept of rumination indicates that the best way to handle distress or failures is to not analyze or bury yourself into it, at least in the aftermath of the problem. that's a good excuse to drink away the pain. what is the optimum amount of time after a failure that you can focus on the problem and analyze what went wrong without increasing your odds of getting depressed? how do you balance the need for self-reflection in face of problems and the need for distracting yourself to not wallow yourself in misery?}
+
+Until recently, traits were used to explain human actions: people were lazy, mean, criminal, noble, generous, and that's why they did what they did. Being personality traits, they were hardly changed. A bad person committed crimes because they were bad. A dumb person didn't study or changed their career because they were dumb. These explanations for failure changed through time and started focusing on the environment: someone committed a crime because they were raised in poverty and unstable homes; someone was dumb because they didn't have accessed to education or suffered from lead water poisoning. This change of interpretation is related to the development of Behaviorism, and it is also behind the recent new-age trend of self-help movements {did I hear quantum coaching?}. Despite the hijack by those self-help movements, the authors argue that they are correct, at least superficially:
+
+> A culture believing in self-improvement will support health clubs, Alcoholics Anonymous, and psychotherapy. A culture believing that bad action stems from bad character and is permanent won’t even try.
+
+Cognitive therapy uses five tactics to treat depression:
+1. Identify automatic thoughts that came up to your mind at bad times. A mother might frequently tell herself "I am a bad mother" each time she acts in a way that she doesn't want to her child (eg. when she screams them), or a person might think "I am useless or I am weird" when they have an anxiety crisis. These automatic thoughts are a result of the person's explanatory style.
+2. Consciously argue against these automatic thoughts. After identifying them, find contrary evidence and remember about them in moments of crisis.
+3. Through cognitive restructuring, aka reattribution, come up with different explanations that you can use instead of the automatic explanations you used to use. This alternative explanation should use a better explanatory style (eg. less pervasive, permanent, and personal). Instead of thinking "I am a terrible mother", the mother might learn to explain her failures in terms of ("I good with the kids after their school, but I am not by best when dealing with the kids in the morning")
+4. Start distracting yourself from depressive thoughts and avoid rumination. You can adopt strategies like go watch a movie, play some game, or whatever it takes to cool down before your start analyzing the situation. Sometimes you don't even need to analyze the situation. Something bad happens, all you can and should do is to accept it and move on.
+5. Recognize values and assumptions that contribute to depression and change them. (eg. "I can't live without love" to "Love is precious but rate"; "Things need to be perfect otherwise I have failed" to "The important thing is to do my best")
+
 ## Related Wikipedia Links
 - <https://en.wikipedia.org/wiki/Martin_Seligman>
 - <https://en.wikipedia.org/wiki/Lyn_Yvonne_Abramson>
@@ -230,6 +274,18 @@ The nine symptoms of depression according to DSM-III-R:
 - <https://en.wikipedia.org/wiki/Noam_Chomsky>
 - <https://en.wikipedia.org/wiki/Behaviorism>
 - <https://en.wikipedia.org/wiki/Cognitivism_(psychology)>
+- <https://en.wikipedia.org/wiki/Cognitive_restructuring>
+- <https://en.wikipedia.org/wiki/Susan_Nolen-Hoeksema>
+- <https://en.wikipedia.org/wiki/Rumination_(psychology)>
+- <https://en.wikipedia.org/wiki/Thought_disorder>
+- <https://en.wikipedia.org/wiki/Classical_conditioning>
+- <https://en.wikipedia.org/wiki/Ivan_Pavlov>
+- <https://en.wikipedia.org/wiki/Systematic_desensitization>
+- <https://en.wikipedia.org/wiki/Joseph_Wolpe>
+- <https://en.wikipedia.org/wiki/Sexual_revolution>
+- <https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy>
+- <https://en.wikipedia.org/wiki/Aaron_T._Beck>
+- https://en.wikipedia.org/wiki/Albert_Ellis>
 
 [1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3330161/
 [2]: https://www.nytimes.com/2016/10/09/world/cia-torture-guantanamo-bay.html
