@@ -1,21 +1,4 @@
-## Contents
-
-  - [tags: [books, psychology]](#tags-books-psychology)
-- [Learned Optimism](#learned-optimism)
-- [Book notes](#book-notes)
-  - [Notes (Chapters 1 to 3)](#notes-chapters-1-to-3)
-    - [Theory of personal control, or Learned helplessness theory](#theory-of-personal-control-or-learned-helplessness-theory)
-    - [Explanatory style](#explanatory-style)
-      - [Permanence](#permanence)
-      - [Pervasiveness: Specific vs. Universal](#pervasiveness-specific-vs-universal)
-      - [Personalization: Internal vs. External](#personalization-internal-vs-external)
-      - [Hope](#hope)
-    - [Explanatory style test](#explanatory-style-test)
-    - [Some notes about explanatory styles](#some-notes-about-explanatory-styles)
-  - [Chapter 4](#chapter-4)
-  - [Chapter 5](#chapter-5)
-  - [Related Wikipedia Links](#related-wikipedia-links)
-
+---
 layout: post
 title: "Book notes: Learned Optimism"
 tags: [books, psychology]
@@ -35,6 +18,8 @@ tags: [books, psychology]
       - [Hope](#hope)
     - [Explanatory style test](#explanatory-style-test)
     - [Some notes about explanatory styles](#some-notes-about-explanatory-styles)
+  - [Chapter 4](#chapter-4)
+  - [Chapter 5](#chapter-5)
   - [Related Wikipedia Links](#related-wikipedia-links)
 
 # Book notes
