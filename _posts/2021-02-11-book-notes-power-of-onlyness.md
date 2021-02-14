@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Notes: The Power of Onlynes"
+title: "Book Notes: The Power of Onlyness"
 tags: [books]
 ---
 
