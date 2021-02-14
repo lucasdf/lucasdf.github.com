@@ -15,7 +15,8 @@ You may find me on Github at <a href="https://github.com/{{ site.github_username
 [App Shogun](https://appshogun.com): web-application that displays historical data and statistics from Google Play Store and its applications.
 
 ## Books I am reading
-[Learned Optimism]({% post_url 2020-12-13-book-notes-learned-optimism %})
+- [Learned Optimism]({% post_url 2020-12-13-book-notes-learned-optimism %})
+- [The Power of Onlyness]({% post_url 2021-02-11-book-notes-power-of-onlyness %})
 
 ## Books I Have Read
 
