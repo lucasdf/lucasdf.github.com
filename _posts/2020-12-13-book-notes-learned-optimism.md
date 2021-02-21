@@ -263,6 +263,94 @@ Cognitive therapy uses five tactics to treat depression:
 4. Start distracting yourself from depressive thoughts and avoid rumination. You can adopt strategies like go watch a movie, play some game, or whatever it takes to cool down before your start analyzing the situation. Sometimes you don't even need to analyze the situation. Something bad happens, all you can and should do is to accept it and move on.
 5. Recognize values and assumptions that contribute to depression and change them. (eg. "I can't live without love" to "Love is precious but rate"; "Things need to be perfect otherwise I have failed" to "The important thing is to do my best")
 
+## Chapters 6, 7 & 8
+
+### Explanatory style and optimism at work
+The author has conducted research on Metropolitan Life, then one of the largest insurance companies in the United States. Until then the company used an aptitude test called Career Profile to decide who to hire for life insurance salesman positions. The company suffered from high turnover, as it is common in the area. More than 50% of people quit before the first year, causing high loses in training and reduced expansion capacity tot he company due to the lack of people. The author's interest relied on the opposite idea from his previous work: instead of focusing on identifying people who were more likely to suffer depression, he was looking to identify those who were most likely to succeed. Having an already stablished process through a standized test was great to provide control groups.
+
+Being a salesperson is not an easy job. People must be able to handle constant rejection. Each 10 calls to prospects might achieve one followup. Some of these followups will end up buying the product. Suffering from constant setbacks and defeats, it was reasonable to suspect that optimist people would fare better than pessimist people, and the former would be less likely to abandon the job.
+
+The author formulated a test called Attributional Style Questionnaire (ASQ) to determine a person explanatory style. He then did several experiments. One of them assesed a group of high-productive sales agents and another group of low-productive sales agents. The agents of the most optimistic half of the spectrum sold 37% more than the industry aveerage, while the 10% more optimistic sold 88% more than the most 10% pessimistic. Future experiments indicated similar results. The final experiment consisted in having an alternative hiring process as opposed to using the traditional Career Profile questionaire. In this experiment, people who ranked high in the ASQ test but failed the Career Profile were hired. Collectively, this group of people who wouldn't have been hired using the existing process due to their lower soce in the Career Profile end up having excellent productivity. The company has changed their hiring policy based on these experiments and started using the explanatory style questionnaire as part of their hiring process, allowing people who score higher in the ASQ to be hired even if they fail the Career Profile test.
+
+### Empirical versus theory-based tests
+Empiral and theory-based tests are the two main types of tests used to predict potential for success. 
+
+Empirical tests use empirical evidence to predict future outcome: given a group of successful people, or a group of people who did not achieve success, come up with as many questions as possible, get their answers, and use the common answers as basis for predicting outcome for other people.
+
+Theory-based tests like IQ tests or SAT are baed on a theory, and try to assess people according to that theory. For instance, the theory behind SAT is that academical success is heavily influenced by a certain types of skills, namely mathematical-analytic skills and verbal skills. The ASW questionaire created by the authors to assess job application suitability for a insurance sales position is also a theory-based test: it is based on the theory that optimistic people will have a higher degree of success at that position than pessimistic people, and that these traits or skills can be assesed through their explanatory styles.
+
+### Is there a role for pessimism in life?
+Is there a role for pessimism in life? Is there a role for pessimism in the workplace? Did pessimism represent any advantage in any kind of situation?
+
+The evidence exist to suggest that pessimism and depression lead people to see reality more accurately when compared to non-depressed and optimist people. 
+
+A experiment conducted by Lauren Alloy and Lyn Abramson asked people to judge how much control they had over a light switch. A group interacted with a perfectly functioning light switch, while other interacted with a light switch that did not work and the light behavior was controlled by the researchers. When judging their control over the light switch and the light behavior depressed people were accurate: they correctly identified when the light switch worked and the light went on or off based on their actions, and they also identified when they had no control over the light because it went on or off no mater what they did. Nondepressed people, however, highly overestimated their degree of control in the helpless situation. The researchers did additional experiments adding monetary incentives, and again nondepressed people were unreliable: when the experiment was rigged so that they would lose money, they would say they had less control than they actually had, and when the experiment was rigged to benefit them, they would say they had more control than they actually had (eg. someone claiming credit and responsibility for the good things that happened to them while putting blame on others/bad luck when bad things happened).
+
+Another experiment put people in a situation where they had to present something to other people. Once again, depressed people were more able to realibly assess how good they performed while nondepressed people overestimated how good they were.
+
+One more experiment put people in a lab, making them take a test and ensuring that they would be correct and wrong a certain number of times. For instance, each participant in the test got 20 questions correct and 20 questions wrong, and they were told their results. Later, when asked to recall their results, depressed people correctly remembered how many questions they got wrong and right, while nondepressed people distorted the past and claimed they got more questions right than they actually did. THat goes against the traditional wisdom that depressive people distort the past and see it in dark shadow, suggesting that they merely see the past as it is while nondepressive people distort their past to focus on the good parts.
+
+> Overall, then, there is clear evidence that nondepressed people distort reality in a self-serving direction and depressed people tend to see reality accurately. How does this evidence, which is about depression, tie into optimism and pessimism? Statistically, most depressed people score in the pessimistic range of explanatory style, and most nondepressed people score optimistically. This means that, on average, optimistic people will distort reality and pessimists, as Ambrose Bierce defined them, will “see the world aright.” The pessimist seems to be at the mercy of reality, whereas the optimist has a massive defense against reality that maintains good cheer in the face of a relentlessly indifferent universe.
+
+This difference when assesing reality casts a light on the role of pessimism in modern society. The author claim that positions like CPAs, financial roles, safety-related positions, not only benefit but rely on the reality accuracy of pessimists so that their roles can be performed correctly. As such, mild pessimism are able to leverage their "pessimistic accuracy" while avoiding the constant heavy depression and sense of helplessness that heavily pessimist people suffer.
+
+The downside of pessimism, as already discused, are:
+- it promotes depression
+- it produces lack of initiative and promotes inertia, specially when faced with challenges
+- bad mood (low self-steem, anxiety, sadness, worry)
+- high rate of desistance. they give up before they can achieve success, and as such teach themselves that success is unatainable
+- worst health condition
+- tendency to enter a loop: they expect bad things to happen and when they do they feel worse. setbacks become disasters, disasters become catastrophes
+
+Human's circadian cycle and basic rest–activity cycle ensures that eveyone experiments some degree of depression daily, and hormone cycles cause the same variation on a monthly basis for women. People tend to be mildly depressed at four in the morning and afternoon, and feel most energized in late morning and early evening. There is a cycle of optimism and pessimism that is common through the days, and both have a purpose. During highs, great plans are conceived, reality is distorted in order to make them seem achievable, new ideas florish. During lows, we are pulled back to reality, we have a better assessment of risks, we might distinguish shiny ideas from what really matters.
+
+### Depression and explanatory styles for kids
+The CASQ is the attributional style questionnaire focused on children. The authors has conducted experiments to research the causes and effects of explanatory style in children. Some of the results from these experiments are:
+- up to puberty, girls are more optimistic than boys (as opposed to their twice higher depression rate later in life)
+- despite gender, children perform very high in terms of optimism until puberty
+- children have a lopsided explanatory style: bad events are temporary events with limited effects, they go away quickly and they are caused by someone else/bad luck/nature. Meanwhile, good event have lasting effects and duration, they help and contribute in all areas of their lives, and their cause is the child's own actions, or at least that's how they explain them to themselves.
+- there is high rate of depression among children, comparable to adults. but their depression don't progress to hopeless and severe cases, and children suicide is rare {although children suicide has been [rising][5] it is still a very low anual rate}
+
+The author argues that children have a natural immunity against hopelessness intended to make them more willing to survive until puberty, when they are then able to start doing their biological duty of growing their species. {has anything similar ever been researched in animals??}. This is similar to how prepubescent children tend to have good health conditions.
+
+### Where the explanatory style comes from for children?
+There are three main theories regarding the origin of a child's explanatory style:
+1. Mother influence: the theory is that children absorb their main caretaker (usually the mother) explanatory style. This is done either thought direct explanations (the famous question children ask "why?") or by observing their mother behavior either talking to them, when talking to herself, and when talking to other adults. Both son and daughthers have a similar explanatory style to their mother, and the father's explanatory style have low influence on them. The lack of influence of the father's style helps to rule out a strong genetic influence.
+2. Adult criticism: adult figures that have influence and authority over children affect their explanatory style through criticism, such as teachers, parents, and caretakers. Children absorb the criticism received from these adults and use them to explain the world to themselves. The author says that due to behavior difference between boys and girls, boy tend to receive criticism in classroom based on temporary and specific causes. They fail a test because they were not paying attention or were scremming and running around. Meanwhile, girls tend to receive permanent and pervasive criticism: teachers say they are not good in the subject, or they are lazy. This has been demonstrated in experiments: when facing an unsolvable test in an experiment, boys use explanations like "I was not paying attention" or "I did not care about this test", while girls use explanations like "I am not good at this type of test" or "I am not intelligent enough".
+3. Life crisis: Life crisis and their effects influence how children develop their explanatory style. Going through major crisis like economic crises and recovering from that contributes for an optimistic style. Meanwhile, people from families who went through these crisis and never recovered financially tend to have a pessimist style. Other examples of life crisis with similar effects include abuse and loses (death of a close one). People who has lost their mother early in life also present a higher rate of pessimist explanatory style.
+
+### CAVE: Content analysis of verbatim explanations
+This is a technique developed to assess one's explanatory style without using the "official" questionnaires. Instead, one's public discourses or verbatim interviews can be assesed and rated as they were questionnaire answers. {TODO: what about training a machine learning model to assess that?}
+
+### Assesing depression in children
+There is a test specilized for assesing depression in kids called "Center for Epidemiological Studies-Depression Child (CES-DC) test". Depressed children has terrible performance in school. Research has showed that pessimism is a predictor for depression in young kinds. Also, depressed kids who were pessimist tended to stay depressed while depressed kids who were optimists tend to get better.
+
+### Divorce
+
+Other than the explanatory style, bad life events are also predictors or causes for depression in children, including: someone close from the family dies, someone close goes away (eg. a brother leaving home to live in another place), a pet dies, the child moves to a new city/school, parents have constant fights, and parent's divorce.
+
+Divorce has profound implications on children: they are much more depressed even after a long time after the divorce, and on average they suffer from depression symptoms like sadness, bad mood, physical pain and health issues, lower self-esteem.
+
+Weirdly enough, research has also demonstrated that somehow children of divorce suffers from more bad events in life. Some of them are understandable since they might be related to the cause of the divorce, or they might be consequences of divorce: parents are more likely to be hospitalized, the kid is more likely to fail school, disruptive changes like new strange people moving into the house, parents losing their jobs or having constant fights even after the divorce. Some other events were also more likely for divorce kids although there is no clear explanation as to why:
+
+> we were astonished by the last category of bad events that children of divorce suffer more of. We still don’t know what to make of these remarkable facts, but we think you should know about them:
+>- The children of divorce see a sibling hospitalized three and a half times more often than children of intact families do.
+>- The child’s own chance of being hospitalized is three and a half times greater.
+>- The chance that a friend of the child will die is twice as great.
+>- The chance that a grandparent will die is also twice as great.
+> Some of these events may be causes or consequences of divorce. But, in addition, families that divorce seem to be cursed by more kinds of misfortune that seem to have nothing to do with the divorce itself, either as cause or as consequence. We cannot imagine how the death of a good friend of the child’s or a grandparent dying could be a consequence of divorce or how it could be a contributing cause. Yet the statistics are there.
+
+{What other weird and seemingly unrelated statistics exist? In a way this made me remember about this website [Spurious correlations][6] which presents ridiculous correlations like how suicides by hanging correlates linearly with US spending on science, or things like that. In this case, however, it is not two unrelated variables that happen to share a similar function representation in a graph, but an actual statistics demonstrating that group A (divorce kids) are more likely to X,Y,Z then group B (non-divorce kids), and although this can still be only a correlation, it is a very peculiar one. The author even hints, partly joking partly serious, that these families might just be cursed, so the reason they were more likely to have a friend dying is not caused by their parents having divorced, but the fact they were cursed somehow is what caused both their parent divorce and their friends death. Can this data be taken seriously? Has this been replicated in other independent studies?
+
+Can the increase in depression rate be explained at least partly by the increase in divorce rates? TODO: plot divorce rates and depression ratesm maybe by country/age/religion/socioeconomic status}
+
+Parents fighting is nearly as bad as divorce for children outcomes. The author talks about the importance of avoiding fights for the wellbeing of children. He also talks about having productive fights: it is important to be polite and refrain from violence, and having clear resolutions. Research has demonstrated that children are less disturbed by fights when they have a clear resolution.
+
+### Girls and boys depression rates
+Although adult women suffer twice more depression than man, young boys have higher depression rate and pessimism explanatory style than women. Their difference are in two symptoms: boys are more likely to display behavioral disturbance and anhedonia (defcit in motivation, anticipatory pleasure, consummatory pleasury, and reinforcement learning). This difference remains until puberty.
+
+{TODO: How depression rate in children compare across variables (culture, socioeconomic status) and how it compares to adult rates?}
+
 ## Related Wikipedia Links
 - <https://en.wikipedia.org/wiki/Martin_Seligman>
 - <https://en.wikipedia.org/wiki/Lyn_Yvonne_Abramson>
@@ -293,3 +381,5 @@ Cognitive therapy uses five tactics to treat depression:
 [2]: https://www.nytimes.com/2016/10/09/world/cia-torture-guantanamo-bay.html
 [3]: https://www.authentichappiness.sas.upenn.edu/testcenter
 [4]: http://changingminds.org/techniques/language/modifying_meaning/qualifiers.htm
+[5]: https://edition.cnn.com/2017/08/14/health/child-suicides/index.html
+[6]: https://www.tylervigen.com/spurious-correlations
